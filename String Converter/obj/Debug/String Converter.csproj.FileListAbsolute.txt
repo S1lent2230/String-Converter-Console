@@ -1,0 +1,7 @@
+C:\Projects\Trident\Bits\Console\String_Converter\String Converter\bin\Debug\String Converter.exe.config
+C:\Projects\Trident\Bits\Console\String_Converter\String Converter\bin\Debug\String Converter.exe
+C:\Projects\Trident\Bits\Console\String_Converter\String Converter\bin\Debug\String Converter.pdb
+C:\Projects\Trident\Bits\Console\String_Converter\String Converter\obj\Debug\String Converter.csprojAssemblyReference.cache
+C:\Projects\Trident\Bits\Console\String_Converter\String Converter\obj\Debug\String Converter.csproj.CoreCompileInputs.cache
+C:\Projects\Trident\Bits\Console\String_Converter\String Converter\obj\Debug\String Converter.exe
+C:\Projects\Trident\Bits\Console\String_Converter\String Converter\obj\Debug\String Converter.pdb
